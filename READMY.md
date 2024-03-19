@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/4dxs9ekxbgr0s71f?svg=true)](https://ci.appveyor.com/project/MarinaTret/rest)
